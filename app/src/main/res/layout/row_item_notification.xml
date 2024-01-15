@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/music_root_rl"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimen10dp">
+
+    <ImageView
+        android:id="@+id/music_img"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/music_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen10dp"
+        android:layout_toStartOf="@id/music_paid"
+        android:textSize="16sp"
+        android:layout_marginEnd="@dimen/dimen10dp"
+        android:layout_toEndOf="@id/music_img"
+        android:fontFamily="@font/lexend_medium"
+        android:text="Nikhar Sachdeva" />
+
+    <TextView
+        android:id="@+id/music_paid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/dimen10dp"
+        android:padding="5dp"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button_16px"
+        android:backgroundTint="@color/coinsMain"
+        android:fontFamily="@font/lexend_medium"
+        android:text="Free" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/music_img"
+        android:layout_marginTop="@dimen/dimen10dp"
+        android:background="@color/colorGrey" />
+</RelativeLayout>

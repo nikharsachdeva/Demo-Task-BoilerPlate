@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#edb361</color>
+    <color name="primaryLight">#edb336</color>
+    <color name="secondary">#35291d</color>
+    <color name="secondaryLight">#5e3f22</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorOrangeHighlighter">#50FF7E59</color>
+    <color name="colorOngoingHighlight">#5fc5ea</color>
+    <color name="coinsMain">#df5936</color>
+    <color name="redHighlighterBg">#40EF6969</color>
+    <color name="redMain">#EF6969</color>
+    <color name="unselectedTabImage">#6B6D92</color>
+    <color name="lightHintColor">#3C8F92BF</color>
+    <color name="btm_sheet_bg">#161829</color>
+    <color name="hintColor">#31394C</color>
+    <color name="highlightColor">#36b3f5</color>
+    <color name="colorBgSandesh">#f4f8fb</color>
+    <color name="colorDarkGrey">#d5dade</color>
+    <color name="colorBlueBtn">#3843D0</color>
+    <color name="colorCream">#f1ab87</color>
+    <color name="colorError">#d1001f</color>
+    <color name="colorRed">#cc252c</color>
+    <color name="colorSuccess">#3CB943</color>
+    <color name="colorOrange">#FF7E59</color>
+    <color name="colorLightBeige">#fef7f0</color>
+    <color name="colorDashEffect">#cad5e1</color>
+
+    <color name="colorHeading">#8d96b5</color>
+    <color name="color_calorie_bg">#1AFF7E59</color>
+    <color name="colorSubHeading">#8d96b5</color>
+    <color name="colorDarkerBlue">#20222e</color>
+    <color name="colorGreyHeading">#bbbdc4</color>
+
+    <color name="colorLightCream">#50fde0dc</color>
+
+    <color name="colorPlaceholder">#dddddd</color>
+    <color name="colorBg">#f0eff4</color>
+    <color name="pastelGreen">#4da376</color>
+    <color name="colorHorizontalLine">#1B2233</color>
+    <color name="colorCouponBg">#f4f6fb</color>
+    <color name="colorPink">#FFF2F3</color>
+    <color name="colorGrey">#14191f</color>
+    <color name="colorPurple">#4d426c</color>
+    <color name="profileHeading">#8da0bb</color>
+
+
+</resources>
