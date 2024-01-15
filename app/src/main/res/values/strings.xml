@@ -3,4 +3,6 @@
     <string name="enable_gps">Please enable GPS</string>
     <string name="required_for_this_app">It is required for this app</string>
     <string name="enable_now">Enable now</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
